@@ -6,9 +6,17 @@ body {
     background-color: #f9f7f1;
 }
 
+.header-about {
+    color: #f9f7f1;
+    background-color: #2f2f2f89;
+    padding:5px;
+    display: block;
+    
+}
+
 header {
     font-family: 'Playfair Display', serif;
-    font-weight: 600;
+    font-weight: 800;
     font-size: 60px;
     text-align: center;
     text-transform: uppercase;
@@ -274,6 +282,9 @@ p {
 /*MEDIAQUERIES*/
 @media only all and (max-width: 1300px) {
     .weatherforcastbox {
+        display: none;
+    }
+    .aboutimg {
         display: none;
     }
 
