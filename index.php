@@ -39,8 +39,8 @@
         <div class="subhead">PRESENTED BY WASTED BLOKE</div>
     </div>
     <div class="content">
-        <div class="collumns">
-            <div class="collumn">
+        <div class="columns">
+            <div class="column">
                 <figure class="figure">
                     <img class="media"
                         src="https://assets-global.website-files.com/6641e3d1cd50964a03be9f24/6641e86c22a7a9ab4d7b72c2_Untitled%20design-p-500.png"
@@ -64,7 +64,7 @@
 
 
             </div>
-            <div class="collumn">
+            <div class="column">
                 <div class="head"><span class="headline" style="font-size:36px;font-weight:400;">IT’S A SOCIAL
                         PROBLEM</span>
                     <p><span class="headline hl6">NOT JUST A
@@ -106,7 +106,7 @@
                 </p>
 
             </div>
-            <div class="collumn">
+            <div class="column">
                 <div class="head"><span class="headline hl1">May the Force be with you</span>
                     <p><span class="headline hl2">Let go your conscious self and act on instinct</span></p>
                 </div>Partially, but it also obeys your commands. Hey, Luke! May the Force be with you. I have traced
@@ -123,7 +123,7 @@
                 <p>You don't believe in the Force, do you? Partially, but it also obeys your commands. The plans you
                     refer to will soon be back in our hands. As you wish.</p>
             </div>
-            <div class="collumn">
+            <div class="column">
                 <div class="head"><span class="headline hl3">The buzz of the little world </span>
                     <p><span class="headline hl4">A thousand unknown plants</span></p>
                 </div>
@@ -136,7 +136,7 @@
                     forms of the insects and flies, then I feel the presence of the Almighty, who formed us in his own
                     image, and the breath</p>
             </div>
-            <div class="collumn">
+            <div class="column">
                 <div class="head"><span class="headline hl1">It wasn't a dream </span>
                     <p><span class="headline hl4">by FRANZ KAFKA</span></p>
                 </div>
