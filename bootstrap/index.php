@@ -123,7 +123,7 @@
             </div>
         </div>
 
-        <div class="row border-bottom border-dark pb-2 mb-3  mt-3">
+        <div class="row border-bottom border-dark pb-4 mb-3  mt-3">
 
             <div class="col-sm-3">
                 <div class=" border border-dark border-1 p-2">
@@ -178,13 +178,13 @@
         </div>
 
         <div class="row mb-3">
-       
+
             <div class="col-sm-5">
 
                 <h3 class="headline1" style="font-weight:800;"><span class="fa fa-globe pe-2 text-muted"></span>ROADMAP
                 </h3>
 
-                <div class="border mb-2">
+                <div class="border-bottom border-dark mb-2">
                     <div class=" p-2">
                         <div class="text-center mb-3">
                             <h3>PHASE 01</h3>
@@ -201,7 +201,7 @@
 
 
 
-                <div class="border mb-2">
+                <div class="border-bottom border-dark mb-2">
                     <div class=" p-2">
                         <div class="text-center mb-3">
                             <h3>PHASE 02</h3>
@@ -218,7 +218,7 @@
 
 
 
-                <div class="border mb-2">
+                <div class="border-bottom border-dark mb-2">
                     <div class=" p-2">
                         <div class="text-center mb-3">
                             <h3>PHASE 03</h3>
@@ -245,11 +245,80 @@
 
 
             </div>
-            <div class="col-sm-7 border">
+            <div class="col-sm-7 ">
+
+                <h3 class="headline3" style="font-weight:800;">PARTNERSHIP
+                </h3>
+                <div class="container">
+                    <!-- First row with three logos -->
+                    <div class="row g-3"> <!-- g-3 class for spacing between columns -->
+                        <div class="col-md-4 d-flex justify-content-center align-items-center border">
+                            <img src="https://miro.medium.com/v2/resize:fit:1200/1*0Y89QCf-NciGQQXDs1CH8g.jpeg"
+                                alt="PinkSale Logo" class="img-fluid">
+                        </div>
+                        <div class="col-md-4 d-flex justify-content-center align-items-center border">
+                            <img src="https://logowik.com/content/uploads/images/raydium4949.jpg" alt="Raydium Logo"
+                                class="img-fluid">
+                        </div>
+                        <div class="col-md-4 d-flex justify-content-center align-items-center border">
+                            <img src="https://logowik.com/content/uploads/images/dextools1728.logowik.com.webp"
+                                alt="DEXTools Logo" class="img-fluid">
+                        </div>
+                    </div>
+
+                    <!-- Second row with two logos and text -->
+                    <div class="row g-3">
+                        <div class="col-md-3 d-flex justify-content-center align-items-center border">
+                            <img src="https://www.digitalcryptomall.com/dexview.503d1f19.jpg" alt="DEXView Logo"
+                                class="img-fluid">
+                        </div>
+                        <div class="col-md-9 border">
+                            <div class="h-100 d-flex flex-column justify-content-center">
+                                <p class="text-center mb-3 mt-3">AUDITED AND SMART CONTRACT BY:</p>
+                                <div class="d-flex justify-content-center p-3">
+                                    <img src="https://stakelayer.io/images/home/contributors/coinsult.webp"
+                                        alt="Coinsult Logo" class="img-fluid">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
 
+                <div class="border border-dark p-2 mt-2">
+                    <h3 class=" headline1 mb-0 pb-0">The Wasted Bloke Whitepaper</h3>
+                    <i class="">EDITION 2022</i>
+
+
+                    <div class="row">
+                        <div class="col-6">
+                            <img src="https://images.theconversation.com/files/45159/original/rptgtpxd-1396254731.jpg?ixlib=rb-4.1.0&q=45&auto=format&w=1356&h=668&fit=crop"
+                                alt="" class="img-fluid">
+                        </div>
+                        <div class="col-6">
+                            <p>Helped the client to rearrange the digital
+                                content to get better engagement and traffic
+                                in their social media account.</p>
+                            <table class="table  bg-transparent">
+                                <tbody>
+                                    <tr>
+                                        <th scope="row" class="bg-transparent">Client</th>
+                                        <td class="bg-transparent">Keithston and Partners (2020)</td>
+
+                                    </tr>
+                                    <tr>
+                                        <th scope="row" class="bg-transparent">Service</th>
+                                        <td class="bg-transparent">Social Media Planner</td>
+
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                </div>
             </div>
-         
+
         </div>
 
 
