@@ -191,13 +191,77 @@
                     All Rights Reserved</i>
             </div>
         </div>
-    </div>
+
+ <div class="column" style="width:100%;">
+ <div class="head"><span class="headline hl3 header-about">ROADMAP </span>
+            </div>
+ </div>
+
+        <div class="column">
 
 
-    <div class="column">
-    <div class="head"><span class="headline hl1">ROADMAP </span>
-                    <p><span class="headline hl4">EDITION 2024</span></p>
-                </div>
+
+           
+
+            <p class="header-about">PHASE 1: TOKEN LAUNCH AND
+                COMMUNITY BUILDING</p>
+            <ul>
+                <li>Launch $Wasted Token.</li>
+                <li>Establish a strong online presence and engage with the community on
+                    social media platforms.</li>
+                <li>Begin outreach efforts to potential charity partners.</li>
+            </ul>
+
+
+
+
+
+
+        </div>
+
+
+
+        <div class="column">
+            <p class="header-about">PHASE 2: FUND ALLOCATION AND PROGRAM
+                IMPLEMENTATION
+            </p>
+
+
+            <ul>
+                <li>Pour some love into initiatives that tackle the heavy stuff like
+                    drugs, alcoholism, unemployment, and homelessness.</li>
+                <li>Keep the party going strong by making sure our funds are making a
+                    real difference in people's lives.</li>
+            </ul>
+        </div>
+
+
+        <div class="column">
+            <p class="header-about">PHASE 3: PARTNERSHIP WITH
+                CHARITY INSTITUTIONS
+
+            </p>
+            <ul>
+                <li>Solidify partnerships with charity institutions dedicated to addressing key social challenges such
+                    as
+                    homelessness, addiction, and poverty.</li>
+                <li>Collaborate with charity partners to fund specific projects and initiatives aimed at creating
+                    tangible
+                    impact in communities.</li>
+                <li>Engage the community in fundraising efforts and volunteer opportunities to support the work of
+                    charity
+                    partners.</li>
+            </ul>
+        </div>
+
+
+
+
+
+
+
+
+
     </div>
 </body>
 
