@@ -80,7 +80,7 @@
                     smile and a side of sarcasm!</p>
 
                 <a>>>></a>
-                <div style="display:none;">
+                <div style="">
 
                     <p>In a world where neglect,
                         inequality, and misplaced
@@ -156,7 +156,7 @@
 
                 <p class="header-about">TOKEN DISTRIBUTION</p>
                 <a>>>></a>
-                <div style="display:none;">
+                <div style="">
 
                     <ul>
                         <li>Liquidity: 60%</li>
