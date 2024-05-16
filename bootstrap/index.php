@@ -247,7 +247,8 @@
             </div>
             <div class="col-sm-7 ">
 
-                <h3 class="headline3" style="font-weight:800;">PARTNERSHIP
+                <h3 class="headline3" style="font-weight:800;"><span
+                        class="fa fa-handshake pe-2 text-muted"></span>PARTNERSHIP
                 </h3>
                 <div class="container">
                     <!-- First row with three logos -->
@@ -304,7 +305,7 @@
                                     <tr>
                                         <th scope="row" class="bg-transparent">Client</th>
                                         <td class="bg-transparent">Keithston and Partners (2020)</td>
- 
+
                                     </tr>
                                     <tr>
                                         <th scope="row" class="bg-transparent">Service</th>
