@@ -304,7 +304,7 @@
                                     <tr>
                                         <th scope="row" class="bg-transparent">Client</th>
                                         <td class="bg-transparent">Keithston and Partners (2020)</td>
-
+ 
                                     </tr>
                                     <tr>
                                         <th scope="row" class="bg-transparent">Service</th>
