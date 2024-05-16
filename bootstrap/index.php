@@ -12,9 +12,28 @@
         crossorigin="anonymous" referrerpolicy="no-referrer" />
     <style>
         body {
+            background-color: #E6E2DC;
+
+            background-image: url('bg2.png');
+            background-size: cover;
+            /* Adjusts the image size to cover the entire container */
+            background-repeat: no-repeat;
+            /* Prevents the image from repeating */
+            background-position: center;
+            /* Centers the image in the container */
+        }
+
+        .container {
             font-family: 'Droid Serif', serif;
             color: #2f2f2f;
             background-color: #f9f7f1;
+            background-image: url('bg.png');
+            background-size: cover;
+            /* Adjusts the image size to cover the entire container */
+            background-repeat: no-repeat;
+            /* Prevents the image from repeating */
+            background-position: center;
+            /* Centers the image in the container */
 
         }
 
@@ -73,12 +92,35 @@
 
 <body>
 
-    <div class="mt-3 text-center">
-        <h1 class="h13">THE NEGLECTED NEWS</h1>
-        <p class=" border-3 border-dark p-2 border-top border-bottom mx-2">PRESENTED BY WASTED BLOKE</p>
-    </div>
 
-    <div class="container mt-3">
+
+
+
+    <div class="container shadow-lg mt-2 p-3 mb-5">
+        <div class="row" style="">
+            <div class="col-8  p-2">
+                <p class="headline2 float-start">THE NEGLECTED NEWS EDITION 2024</p>
+            </div>
+            <div class="col-4 ">
+                <div class="float-end p-2">
+
+                    <span class="fa-brands fa-telegram"></span>
+                    <span class="fa-brands fa-facebook"></span>
+                    <span class="fa-brands fa-x-twitter"></span>
+                </div>
+            </div>
+
+        </div>
+
+
+        <div class="mt-3 text-center">
+            <h1 class="h13">THE NEGLECTED NEWS</h1>
+            <p class=" border-3 border-dark p-2 border-top border-bottom mx-2">PRESENTED BY WASTED BLOKE</p>
+        </div>
+
+
+
+
         <div class="row">
             <div class="col-sm-3 border-bottom border-dark pb-5">
                 <i>NOT JUST A MEME</i>
@@ -177,7 +219,7 @@
 
         </div>
 
-        <div class="row mb-3">
+        <div class="row mb-3 ">
 
             <div class="col-sm-5">
 
@@ -326,11 +368,43 @@
 
 
 
-        <div class=" row mb-5">
+        <div class="row mb-3 mt-5">
+            <div class="col-12">
+                <div class="text-center">
+                    <h3 class="h13" style="font-size:50px;margin:0;padding:0;">JOIN OUR PRESALE
+                    </h3>
+                    <p>Copyright 2024 WastedBloke
+                        All Rights Reserved</p>
+                    <div style="font-size:25px;">
+                        <span class="fa-brands fa-telegram"></span>
+                        <span class="fa-brands fa-facebook"></span>
+                        <span class="fa-brands fa-x-twitter"></span>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="row border-top border-dark" style="">
+            <div class="col-8  p-2">
+                <p class="headline2 float-start">THE NEGLECTED NEWS EDITION 2024</p>
+            </div>
+            <div class="col-4 ">
+                <div class="float-end p-2">
+
+                    <span class="fa-brands fa-telegram"></span>
+                    <span class="fa-brands fa-facebook"></span>
+                    <span class="fa-brands fa-x-twitter"></span>
+                </div>
+            </div>
 
         </div>
+
+
     </div>
 
+
+    
 </body>
 
 </html>
