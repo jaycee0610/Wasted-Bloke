@@ -10,6 +10,9 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
         integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+
     <style>
         body {
             background-color: #E6E2DC;
@@ -96,7 +99,7 @@
 
 
 
-    <div class="container shadow-lg mt-2 p-3 mb-5">
+    <div class="container animate__animated animate__fadeIn shadow-lg mt-2 p-3 mb-5">
         <div class="row" style="">
             <div class="col-8  p-2">
                 <p class="headline2 float-start">THE NEGLECTED NEWS EDITION 2024</p>
@@ -404,7 +407,7 @@
     </div>
 
 
-    
+
 </body>
 
 </html>
