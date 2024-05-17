@@ -2,9 +2,14 @@
 <html lang="en">
 
 <head>
-    <title>Wasted Bloke - THE NEGLECTED NEWS</title>
+    <title>THE NEGLECTED NEWS - Wasted Bloke</title>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="Description" content="WASTED isn't just a token; it's a call to action. Join us in the fight against social problems and let's work together to create a better future for all. Together, we can make a difference.">
+	<meta name="Author" content="Wasted Bloke">
+	<meta property="og:image" content="assets/images/cover.png" />
+
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
