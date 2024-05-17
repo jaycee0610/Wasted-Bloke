@@ -2,7 +2,7 @@
         body {
             background-color: #E6E2DC;
 
-            background-image: url('bg2.png');
+            background-image: url('../images/bg2.png');
             background-size: cover;
             /* Adjusts the image size to cover the entire container */
             background-repeat: no-repeat;
@@ -15,7 +15,7 @@
             font-family: 'Droid Serif', serif;
             color: #2f2f2f;
             background-color: #f9f7f1;
-            background-image: url('bg.png');
+            background-image: url('../images/bg.png');
             background-size: cover;
             /* Adjusts the image size to cover the entire container */
             background-repeat: no-repeat;
