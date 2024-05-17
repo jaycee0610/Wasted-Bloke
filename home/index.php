@@ -218,7 +218,7 @@
                 <h3 class="headline3" style="font-weight:800;"><span
                         class="fa fa-handshake pe-2 text-muted"></span>PARTNERSHIP
                 </h3>
-                <div class="container">
+                <div class="">
                     <!-- First row with three logos -->
                     <div class="row g-3"> <!-- g-3 class for spacing between columns -->
                         <div class="col-6 col-md-3 d-flex justify-content-center align-items-center border">
