@@ -378,11 +378,7 @@
                     </h3>
                     <p>Copyright 2024 WastedBloke
                         All Rights Reserved</p>
-                    <div style="font-size:25px;">
-                        <span class="fa-brands fa-telegram"></span>
-                        <span class="fa-brands fa-facebook"></span>
-                        <span class="fa-brands fa-x-twitter"></span>
-                    </div>
+                   
                 </div>
 
             </div>
