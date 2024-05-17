@@ -12,8 +12,23 @@
     </div>
 </div>
 <div class="mt-3 text-center">
-    <h1 class="h13">THE NEGLECTED NEWS</h1>
+    <div class="h13"
+        style="font-family: 'Playfair Display', serif; font-weight: 800; font-size: 60px; text-align: center; text-transform: uppercase; display: inline-block; line-height: 72px; margin-bottom: 20px;">
+        THE NEGLECTED NEWS
+    </div>
+
+
     <p class="border-3 border-dark p-2 border-top border-bottom mx-2">PRESENTED BY WASTED BLOKE</p>
 </div>
+
+
+<?php
+if (have_posts()):
+    while (have_posts()):
+        the_post();
+        the_content();
+    endwhile;
+endif;
+?>
 <!-- Add the rest of your content here -->
 <?php get_footer(); ?>
