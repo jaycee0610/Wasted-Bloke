@@ -2,95 +2,14 @@
 <html lang="en">
 
 <head>
-    <title>Bootstrap 5 Example</title>
+    <title>Wasted Bloke - THE NEGLECTED NEWS</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
-        integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
-        crossorigin="anonymous" referrerpolicy="no-referrer" />
-
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
-
-    <style>
-        body {
-            background-color: #E6E2DC;
-
-            background-image: url('bg2.png');
-            background-size: cover;
-            /* Adjusts the image size to cover the entire container */
-            background-repeat: no-repeat;
-            /* Prevents the image from repeating */
-            background-position: center;
-            /* Centers the image in the container */
-        }
-
-        .container {
-            font-family: 'Droid Serif', serif;
-            color: #2f2f2f;
-            background-color: #f9f7f1;
-            background-image: url('bg.png');
-            background-size: cover;
-            /* Adjusts the image size to cover the entire container */
-            background-repeat: no-repeat;
-            /* Prevents the image from repeating */
-            background-position: center;
-            /* Centers the image in the container */
-
-        }
-
-
-        .header-about {
-            color: #f9f7f1;
-            background-color: #2f2f2f89;
-            padding: 5px;
-            display: block;
-
-        }
-
-
-        .h13 {
-            font-family: 'Playfair Display', serif;
-            font-weight: 800;
-            font-size: 60px;
-            text-align: center;
-            text-transform: uppercase;
-            display: inline-block;
-            line-height: 72px;
-            margin-bottom: 20px;
-
-        }
-
-        img {
-            -webkit-filter: sepia(80%) contrast(1) opacity(0.8);
-            filter: sepia(80%) grayscale(1) contrast(1) opacity(0.8);
-            mix-blend-mode: multiply;
-        }
-
-        .headline1 {
-            font-weight: 400;
-            font-style: italic;
-            font-size: 36px;
-            box-sizing: border-box;
-            padding: 10px 0 10px 0;
-        }
-
-        .headline2 {
-            text-align: center;
-            line-height: normal;
-            font-family: 'Playfair Display', serif;
-            display: block;
-            margin: 0 auto;
-        }
-
-        .headline3 {
-            font-weight: 700;
-            font-size: 30px;
-            text-transform: uppercase;
-            padding: 10px 0 10px 0;
-        }
-    </style>
+    <link rel="stylesheet" href="assets/css/style.css">
 </head>
 
 <body>
@@ -100,19 +19,20 @@
 
 
     <div class="container animate__animated animate__fadeIn shadow-lg mt-2 p-3 mb-5">
+
+
+    
         <div class="row" style="">
             <div class="col-8  p-2">
                 <p class="headline2 float-start">THE NEGLECTED NEWS EDITION 2024</p>
             </div>
             <div class="col-4 ">
                 <div class="float-end p-2">
-
                     <span class="fa-brands fa-telegram"></span>
                     <span class="fa-brands fa-facebook"></span>
                     <span class="fa-brands fa-x-twitter"></span>
                 </div>
             </div>
-
         </div>
 
 
@@ -130,15 +50,11 @@
                 <h3 class="headline1 text-center">WE EXIST. JUST NEGLECTED.</h3>
                 <p>WASTED isn't just a token; it's a call to action. Join us in the fight against social problems and
                     let's work together to create a better future for all. Together, we can make a difference.</p>
-                <img class="img-fluid"
-                    src="https://static.foxbusiness.com/foxbusiness.com/content/uploads/2023/08/PHILLY-DRUG-GETTY.jpg"
-                    alt="">
+                <img class="img-fluid" src="assets/images/1.jpg" alt="">
             </div>
             <div class="col-sm-3 border-start border-dark   ">
                 <i class="fw-bold p-2">ABOUT WASTED BLOKE</i>
-                <img class="img-fluid d-none d-md-block"
-                    src="https://as2.ftcdn.net/v2/jpg/03/74/66/27/1000_F_374662753_QVGD0RYNdvpfh8ocg4PgjleTX2D6gcYx.jpg"
-                    alt="">
+                <img class="img-fluid d-none d-md-block" src="assets/images/2.jpg" alt="">
                 <h3 class="headline2 mt-2">IT’S A SOCIAL PROBLEM</h3>
                 <div class="text-center mb-3 mt-3">
                     <p class="border-top pt-2 border-dark border-bottom pb-2 w-50 d-inline">NOT JUST A MEME</p>
@@ -215,7 +131,7 @@
             </div>
 
             <div class="col-sm-5">
-                <img class="img-fluid" src="https://pbs.twimg.com/media/Fwj5PZ8aYAEy9Tg.jpg:large" alt="">
+                <img class="img-fluid" src="assets/images/3.jpg" alt="">
             </div>
 
 
@@ -299,31 +215,26 @@
                     <!-- First row with three logos -->
                     <div class="row g-3"> <!-- g-3 class for spacing between columns -->
                         <div class="col-md-4 d-flex justify-content-center align-items-center border">
-                            <img src="https://miro.medium.com/v2/resize:fit:1200/1*0Y89QCf-NciGQQXDs1CH8g.jpeg"
-                                alt="PinkSale Logo" class="img-fluid">
+                            <img src="assets/images/pinksale.jpg" alt="PinkSale Logo" class="img-fluid">
                         </div>
                         <div class="col-md-4 d-flex justify-content-center align-items-center border">
-                            <img src="https://logowik.com/content/uploads/images/raydium4949.jpg" alt="Raydium Logo"
-                                class="img-fluid">
+                            <img src="assets/images/raydium.jpg" alt="Raydium Logo" class="img-fluid">
                         </div>
                         <div class="col-md-4 d-flex justify-content-center align-items-center border">
-                            <img src="https://logowik.com/content/uploads/images/dextools1728.logowik.com.webp"
-                                alt="DEXTools Logo" class="img-fluid">
+                            <img src="assets/images/dextools.jpg" alt="DEXTools Logo" class="img-fluid">
                         </div>
                     </div>
 
                     <!-- Second row with two logos and text -->
                     <div class="row g-3">
                         <div class="col-md-3 d-flex justify-content-center align-items-center border">
-                            <img src="https://www.digitalcryptomall.com/dexview.503d1f19.jpg" alt="DEXView Logo"
-                                class="img-fluid">
+                            <img src="assets/images/dexview.jpg" alt="DEXView Logo" class="img-fluid">
                         </div>
                         <div class="col-md-9 border">
                             <div class="h-100 d-flex flex-column justify-content-center">
                                 <p class="text-center mb-3 mt-3">AUDITED AND SMART CONTRACT BY:</p>
                                 <div class="d-flex justify-content-center p-3">
-                                    <img src="https://stakelayer.io/images/home/contributors/coinsult.webp"
-                                        alt="Coinsult Logo" class="img-fluid">
+                                    <img src="assets/images/coinsult.jpg" alt="Coinsult Logo" class="img-fluid">
                                 </div>
                             </div>
                         </div>
@@ -338,8 +249,7 @@
 
                     <div class="row">
                         <div class="col-6">
-                            <img src="https://images.theconversation.com/files/45159/original/rptgtpxd-1396254731.jpg?ixlib=rb-4.1.0&q=45&auto=format&w=1356&h=668&fit=crop"
-                                alt="" class="img-fluid">
+                            <img src="assets/images/book.jpg" alt="" class="img-fluid">
                         </div>
                         <div class="col-6">
                             <p>Helped the client to rearrange the digital
@@ -378,7 +288,7 @@
                     </h3>
                     <p>Copyright 2024 WastedBloke
                         All Rights Reserved</p>
-                   
+
                 </div>
 
             </div>
